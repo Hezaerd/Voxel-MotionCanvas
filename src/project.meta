@@ -1,10 +1,10 @@
 {
   "version": 0,
   "shared": {
-    "background": "rgb(20,20,20)",
+    "background": "rgba(255,255,255,0)",
     "range": [
-      0,
-      null
+      0.03333233333333333,
+      7.084048521564243
     ],
     "size": {
       "x": 1920,
